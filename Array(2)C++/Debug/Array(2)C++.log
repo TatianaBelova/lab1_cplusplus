@@ -1,1 +1,15 @@
-﻿     0>MSBUILD : error MSB4166: Child node "3" exited prematurely. Shutting down.
+﻿Build started 1/28/2013 11:50:26 PM.
+     1>Project "D:\magnificently\C++\lab1_cplusplus\Array(2)C++\Array(2)C++.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Array(2)C++.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Array(2)C++.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Array(2)C++.cpp"
+         Array(2)C++.cpp
+     1>d:\magnificently\c++\lab1_cplusplus\array(2)c++\array(2)c++.cpp(11): error C2065: 'LC_All' : undeclared identifier
+     1>d:\magnificently\c++\lab1_cplusplus\array(2)c++\array(2)c++.cpp(11): error C3861: 'setLocale': identifier not found
+     1>Done Building Project "D:\magnificently\C++\lab1_cplusplus\Array(2)C++\Array(2)C++.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.88
